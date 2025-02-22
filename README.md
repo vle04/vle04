@@ -1,4 +1,4 @@
-hi, i’m vina :)
+<h1> hi, i’m vina :) </h1>
 
 i'm currently a sophomore at tufts university studying computer science!
 <!---
