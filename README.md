@@ -4,7 +4,7 @@ hi, i'm **vina**! i'm currently a junior at tufts university studying computer s
 
 i mostly have experience with app/web development, and i'm currently interested in exploring the intersection between coding and art/design!
 
-**languages:** c/c++, html/css, java, javascript, typescript
-**frameworks/libraries:** next.js, node.js, react/react native, tailwind css
-**tools:** expo, figma, git, github desktop, vscode, canva, unity
+**languages:** c/c++, html/css, java, javascript, typescript </br>
+**frameworks/libraries:** next.js, node.js, react/react native, tailwind css </br>
+**tools:** expo, figma, git, github desktop, vscode, canva, unity </br>
 **databases:** firebase, mongodb, mongoose
