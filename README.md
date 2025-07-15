@@ -1,6 +1,6 @@
 <h1> welcome :) </h1>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="./vina-avatar.png" alt="vina's avatar" width="200" style="border-radius: 8px;" />
@@ -10,8 +10,9 @@
     </td>
   </tr>
 </table>
+-->
 
-i'm currently a junior at tufts university studying computer science. i'm a software developer for freebites, an app that notifies students of free food opportunities on campus. i'm also involved with my school's student-run digital agency, jumbocode!
+hi, i'm <strong>vina</strong>! i'm currently a junior at tufts university studying computer science. i'm a software developer for freebites, an app that notifies students of free food opportunities on campus. i'm also involved with my school's student-run digital agency, jumbocode!
 
 i mostly have experience with app/web development, and i'm currently interested in exploring the intersection between coding and art/design!
 
