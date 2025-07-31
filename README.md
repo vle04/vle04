@@ -21,6 +21,6 @@ i mostly have experience with app/web development, and i'm currently interested 
     <b>languages:</b> c/c++, html/css, java, javascript, typescript <br>
     <b>frameworks/libraries:</b> next.js, node.js, react/react native, tailwind css <br>
     <b>tools:</b> expo, figma, git, github desktop, vscode, canva, unity <br>
-    <b>databases:</b> firebase, mongodb, mongoose
+    <b>databases:</b> mongodb, mongoose
   </div>
 </div>
