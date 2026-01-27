@@ -1,4 +1,4 @@
-<h1> welcome :) </h1>
+<h1> hey there! </h1>
 
 <!-- <table>
   <tr>
@@ -12,15 +12,14 @@
 </table>
 -->
 
-hi, i'm <strong>vina</strong>! i'm currently a junior at tufts university studying computer science. i'm a full-stack developer for freebites, an app that notifies students of free food opportunities on campus. i'm also involved with my school's student-run digital agency, jumbocode!
+hi, i'm <strong>vina</strong>! i'm a junior studying cs at tufts university who's passionate about turning ideas into real, usable software. i currently work as a full-stack developer for freebites, an app that notifies students of free food opportunities on college campuses. i'm also involved in tuft's student-run digital agency, jumbocode, where we create web-apps for local non-profit organizations.
 
-i mostly have experience with app/web development, and i'm currently interested in exploring the intersection between coding and art/design!
+when i'm not in front of my computer or studying, i enjoy drawing, dancing, and the occasional cafe crawl :)
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px; flex-wrap: wrap">
   <div>
-    <b>languages:</b> c/c++, html/css, java, javascript, typescript <br>
-    <b>frameworks/libraries:</b> next.js, node.js, react/react native, tailwind css <br>
-    <b>tools:</b> expo, figma, git, github desktop, vscode, canva, unity <br>
-    <b>databases:</b> mongodb, mongoose
+    <b>languages:</b> typescript, html/css, javascript, java, c/c++ <br>
+    <b>frameworks & libraries:</b> next.js, node.js, react/react native, tailwind css, mongoose <br>
+    <b>tools & platforms:</b> mongodb, figma, git, vercel, expo, unity, wordpress <br>
   </div>
 </div>
