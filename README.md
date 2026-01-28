@@ -12,7 +12,7 @@
 </table>
 -->
 
-hi, i'm <strong>vina</strong>! i'm a junior studying cs at tufts university who's passionate about turning ideas into real, usable software. i currently work as a full-stack developer for <a href="https://www.freebites.org/">freebites</a>, an app that notifies students of free food opportunities on college campuses. i'm also involved in tuft's student-run digital agency, <a href="https://jumbocode.org/">jumbocode</a>, where we create web-apps for local non-profit organizations.
+hi, i'm <strong>vina</strong>! i'm a junior studying cs at tufts university who's passionate about turning ideas into real, usable software. i currently work as a full-stack developer for <a href="https://www.freebites.org/">freebites</a>, an app that notifies students of free food opportunities on college campuses. i'm also involved in tufts' student-run digital agency, <a href="https://jumbocode.org/">jumbocode</a>, where we create web-apps for local non-profit organizations.
 
 when i'm not in front of my computer or studying, i enjoy drawing, dancing, and the occasional cafe crawl :)
 
