@@ -18,10 +18,10 @@ i was also a swe intern @ ukg on the conversational experience team for summer 2
 
 when i'm not in front of my computer or studying, i enjoy drawing, dancing, and the occasional cafe crawl :)
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px; flex-wrap: wrap">
+<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px; flex-wrap: wrap">
   <div>
     <b>languages:</b> typescript, html/css, javascript, java, c/c++ <br>
     <b>frameworks & libraries:</b> next.js, node.js, react/react native, tailwind css, mongoose <br>
     <b>tools & platforms:</b> mongodb, figma, git, vercel, expo, unity, wordpress <br>
   </div>
-</div>
+</div> -->
